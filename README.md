@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <h3 align="center">¡Hey 👋! Soy rebollar 👨🏻‍💻</h3>
+   <h3 align="center">¡Hey 👋! Soy Rebollar 👨🏻‍💻</h3>
 </p>
 
 <p align="center"><br />¡Revisa mi contenido 👇!</p>
