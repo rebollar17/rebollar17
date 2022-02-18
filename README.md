@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://github.com/rebollar17/rebollar17/blob/main/src/foto.jpeg" />
+   <img align="center" width="200" src="https://github.com/rebollar17/rebollar17/blob/main/src/foto.png" />
    <h3 align="center">¡Hey, Soy Rebollar! 👨🏻‍💻</h3>
 </p>
 
